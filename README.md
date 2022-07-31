@@ -7,3 +7,4 @@ The database contains data for many Apache Projects. For your group projects, on
 Your task is to develop an automated model to predict the acceptance of pull request. The model should be designed so that it can be used on GitHub, for example, to show an indicator if the pull request is likely to be accepted. Additionally, try to predict the time until the pull request is accepted using a different machine learning model from the lecture.
 
 You have to frame these questions into an analytic problem. Then, you have to create models that can be used to answer the questions. You have to choose appropriate features from the available data for this and decide which kind of analytic approach to use. Finally, you have to evaluate how well your approach performs.
+i choose kafka project which as more then 9k closed and around 2k open pull requests in data base
